@@ -1,0 +1,27 @@
+# Python Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Sensitive API Keys & Configs (Keep your private keys safe)
+config/api_keys.json
+
+# Local Runtime Memory & User Data
+memory/long_term.json
+memory/*.log
+*.log
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp

@@ -1,0 +1,42 @@
+# GUI
+PyQt6
+
+# Audio & Voice
+sounddevice
+pyaudio
+SpeechRecognition
+
+# AI APIs
+google-genai
+google-generativeai
+
+# Automation & Scraping
+playwright
+requests
+beautifulsoup4
+duckduckgo-search
+youtube-transcript-api
+
+# Desktop & OS Control
+pyautogui
+pyperclip
+pygetwindow
+pywinauto
+psutil
+mss
+opencv-python
+numpy
+Pillow
+comtypes
+pycaw
+win10toast
+send2trash
+
+# Document & File Processing
+pdfplumber
+pypdf
+python-docx
+pandas
+openpyxl
+python-pptx
+pydub
