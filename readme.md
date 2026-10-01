@@ -4,7 +4,7 @@
 
 ![JARVIS AI Banner](assets/banner.jpg)
 
-### **The Autonomous Cross-Platform Voice & Vision Personal AI Assistant**
+### **The Autonomous Cross-Platform Voice And Visiosn Personal AI Assistants **
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.14-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/GUI-PyQt6-41CD52.svg?logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
